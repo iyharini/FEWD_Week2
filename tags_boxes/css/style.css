@@ -1,0 +1,25 @@
+h1{
+  background-color: red;
+  padding: 10px;
+  border-color: black;
+  margin: 0;
+}
+
+p{
+  background:blue;
+  color: white;
+  padding: 15px;
+  border-color: black;
+}
+code{
+  background: white;
+  color: black;
+  padding: 2px 5px;
+  border: 1px solid black;
+}
+
+body{
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
